@@ -18,4 +18,4 @@ Atualmente estudo e pratico com as linguagens:
 - 🤕 Tenho diagnóstico de ansiedade e TDAH
 - 🥴 Estou no Twitter mas não compartilho nem sob ameaça de morte
 - 🎥 Em jornada de formação enquanto cinéfilo (começando a assistir filmes)
-- 🎵🎶 Escuto muita música (mas estou sem Spotify, quem puder ajudar aceito contribuições)
+- 🎶 Escuto muita música (mas estou sem Spotify, quem puder ajudar aceito contribuições)
