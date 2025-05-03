@@ -19,3 +19,12 @@ Atualmente estudo e pratico com as linguagens:
 - 🥴 Estou no Twitter mas não compartilho nem sob ameaça de morte
 - 🎥 Em jornada de formação enquanto cinéfilo (começando a assistir filmes)
 - 🎶 Escuto muita música (mas estou sem Spotify, quem puder ajudar aceito contribuições)
+
+
+---
+
+
+## ✉️ Contato por e-mail
+
+[![Email Escolar](https://img.shields.io/badge/Email%20Escolar-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gomesmiguel@aluno.ifce.edu.br)
+[![Email Pessoal](https://img.shields.io/badge/Email%20Pessoal-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:galeriasmiguelgomes@gmail.com)
