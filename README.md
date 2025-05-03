@@ -6,7 +6,8 @@
 ## Olá!! 👋
 
 
-**MiguelGomesIFCE/MiguelGomesIFCE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me chamo **Miguel**, tenho **17 anos** e sou estudante do **IFCE – Campus Maranguape**, atualmente no **5º semestre** do curso técnico em Informática.
+
 
 Here are some ideas to get you started:
 
