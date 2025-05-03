@@ -1,8 +1,8 @@
 ## Hi there 👋
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=600&lines=Seja+bem-vindo!+✨&color=FF0000)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=600&lines=Seja+bem-vindo!+✨
-&color=FF0000)](https://git.io/typing-svg)
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=600&lines=Seja+bem-vindo!+🌟&color=FF0000)](https://git.io/typing-svg)
 
