@@ -10,6 +10,7 @@ Me chamo **Miguel**, tenho **17 anos** e sou estudante do **IFCE – Campus Mara
 
 
 Atualmente estudo e pratico com as linguagens:
+
 🖥️ _Java_, _HTML_, _JavaScript_ e _Python_.
 
 
