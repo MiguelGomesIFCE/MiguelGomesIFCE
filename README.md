@@ -37,3 +37,6 @@ Atualmente estudo e pratico com as linguagens:
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MiguelGomesIFCE&show_icons=true&theme=default&hide_border=false&bg_color=00000000" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelGomesIFCE&layout=compact&theme=default&hide_border=false&bg_color=00000000" />
 
 </div>
+
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00008B&height=120&section=footer"/>
