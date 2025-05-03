@@ -34,6 +34,6 @@ Atualmente estudo e pratico com as linguagens:
 ### 📈 Estatísticas do GitHub  
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MiguelGomesIFCE&show_icons=true&theme=default&hide_border=false&bg_color=00000000" /><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelGomesIFCE&layout=compact&theme=default&hide_border=false&bg_color=00000000" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MiguelGomesIFCE&show_icons=true&theme=default&hide_border=false&bg_color=00000000" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelGomesIFCE&layout=compact&theme=default&hide_border=false&bg_color=00000000" />
 
 </div>
